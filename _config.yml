@@ -1,9 +1,9 @@
 # Site settings
-title: Great New Blog Title
+title: Open Source is Tech Transfer
 author:
-  name: Evan Will
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+  name: Andrew Wichmann
+  email: wichmann@jhu.edu
+description: "Resources for open source technology tranfer"
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
