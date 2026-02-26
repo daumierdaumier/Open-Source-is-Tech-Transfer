@@ -1,5 +1,7 @@
-# Open Source is Tech Transfer
-
+---
+title: Open Source is Tech Transfer
+description: Resources for understanding open source software as technology transfer
+---
 ## The Role of TTOs in Supporting Open Source Translation
 
 <div style="position: relative; width: 100%; padding-top: 59.27%; overflow: hidden;">
