@@ -1,11 +1,26 @@
 # Site settings
 title: Open Source is Tech Transfer
+tagline: "Making the case that open source software is a form of technology transfer"
 author:
   name: Andrew Wichmann
   email: wichmann@jhu.edu
-description: "Resources for open source technology tranfer"
+description: "Resources for understanding open source software as technology transfer — for researchers, institutions, and policymakers."
+url: "https://daumierdaumier.github.io"
+baseurl: "/Open-Source-is-Tech-Transfer"
+
+# SEO & social
+lang: en
+timezone: America/New_York
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
