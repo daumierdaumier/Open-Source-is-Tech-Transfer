@@ -1,8 +1,8 @@
 # Open Source is Tech Transfer
 
-## A site that might do something?
+A website making the case that open source software is a form of technology transfer.
 
-![test image](test_image.jpg)
+Live site: https://ositt.org
 
-(c) Tiberio Sorvillo. Licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). Original available [here.](https://www.flickr.com/photos/free-software-center/49094829736/in/album-72157711834939071)
+Licensed under CC0.
 
