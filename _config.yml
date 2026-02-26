@@ -5,8 +5,8 @@ author:
   name: Andrew Wichmann
   email: wichmann@jhu.edu
 description: "Resources for understanding open source software as technology transfer — for researchers, institutions, and policymakers."
-url: "https://daumierdaumier.github.io"
-baseurl: "/Open-Source-is-Tech-Transfer"
+url: "https://ositt.org"
+baseurl: ""
 
 # SEO & social
 lang: en
