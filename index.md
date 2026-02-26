@@ -17,3 +17,13 @@
     allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
   </iframe>
 </div>
+
+## Solving for Open Source in Technology Transactions
+
+<div style="position: relative; width: 100%; padding-top: 59.27%; overflow: hidden;">
+  <iframe
+    src="https://docs.google.com/presentation/d/e/2PACX-1vR_ouGcTSvYQB8anVnSW4De7RpIInn68qHWejnpRW98CizOLnfar9kJV-uh_inqnQ/pubembed?start=false&loop=true&delayms=3000"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"
+    allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+  </iframe>
+</div>
