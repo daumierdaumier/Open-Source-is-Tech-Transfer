@@ -1,4 +1,4 @@
-## Presentation 1
+## The Role of TTOs in Supporting Open Source Translation
 
 <div style="position: relative; width: 100%; padding-top: 59.27%; overflow: hidden;">
   <iframe
@@ -8,7 +8,7 @@
   </iframe>
 </div>
 
-## Presentation 2
+## The Impact of Open Source on Software Licensing
 
 <div style="position: relative; width: 100%; padding-top: 59.27%; overflow: hidden;">
   <iframe
