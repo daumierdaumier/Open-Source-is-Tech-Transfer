@@ -143,8 +143,24 @@ description: About the OSiTT working group and the people behind this project.
     line-height: 1.75;
     color: #4a4a5a;
     font-weight: 300;
-    margin: 0;
+    margin: 0 0 16px;
   }
+
+  .linkedin-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #0d6e6e;
+    text-decoration: none;
+    border-bottom: 1px solid #0d6e6e;
+    padding-bottom: 1px;
+  }
+
+  .linkedin-link:hover { color: #0d2137; border-color: #0d2137; text-decoration: none; }
 
   .highlight-box {
     border-left: 3px solid #0d6e6e;
@@ -261,16 +277,19 @@ description: About the OSiTT working group and the people behind this project.
     <div class="author-name">Andrew Wichmann</div>
     <div class="author-affiliation">Johns Hopkins University</div>
     <p class="author-bio">Andrew Wichmann works at Johns Hopkins Technology Ventures and has been a convener of the OSiTT working group since its founding. His work focuses on the intersection of open source software, intellectual property, and technology transfer policy.</p>
+    <a href="https://www.linkedin.com/in/andrewkw/" class="linkedin-link" target="_blank">LinkedIn →</a>
   </div>
   <div class="author-card">
     <div class="author-name">Megan Forbes</div>
     <div class="author-affiliation">Johns Hopkins University</div>
     <p class="author-bio">Megan Forbes is a co-author of the OSiTT framework and brings expertise in open source community strategy and sustainability, including co-authorship of <em>It Takes a Village: Open Source Software Sustainability</em>.</p>
+    <a href="https://www.linkedin.com/in/megan-forbes-960a5a3/" class="linkedin-link" target="_blank">LinkedIn →</a>
   </div>
   <div class="author-card">
     <div class="author-name">Ashwathi Iyer</div>
     <div class="author-affiliation">University of Michigan</div>
     <p class="author-bio">Ashwathi Iyer is a co-author based at the University of Michigan's Innovation Partnerships office, which operates the Michigan Open Source Software (MOSS) program — one of the leading university open source programs in the United States.</p>
+    <a href="https://www.linkedin.com/in/ashwathi-iyer-b474722a/" class="linkedin-link" target="_blank">LinkedIn →</a>
   </div>
 </div>
 
