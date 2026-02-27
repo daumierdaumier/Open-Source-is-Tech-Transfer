@@ -6,3 +6,5 @@ Live site: https://ositt.org
 
 Licensed under CC0.
 
+Domain registered and managed with cloudflare.com 
+
