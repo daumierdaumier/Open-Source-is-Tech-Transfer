@@ -1,6 +1,6 @@
 # Open Source is Tech Transfer
 
-A website making the case that open source software is technology transfer.
+A website making the case that open source is technology transfer.
 
 Live site: https://ositt.org
 
